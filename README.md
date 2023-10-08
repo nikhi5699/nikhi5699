@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning Kubernetes.
 
-- 💬 Ask me about **Jenkins, Docker, Ansible, Terraform**
+- 💬 Ask me about **Jenkins, Docker, Ansible and Terraform**
 
 - 📫 How to reach me **nikhilcherukupally2@gmail.com**
 

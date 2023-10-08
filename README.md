@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Nikhil Cherukupally</h1>
-<h3 align="center">A passionate Devops Engineer</h3>
+<h3 align="center"> Devops Engineer at Bectran Inc </h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvk5Q8UU7I6QWzAFFuVh6wH-YLa4Hv2nagzg&usqp=CAU](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT494dNXJqWqf-jq4pcjSwGtQcO6dcjcF-A6g&usqp=CAU">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhil5699&label=Profile%20views&color=0e75b6&style=flat" alt="nikhil5699" /> </p>

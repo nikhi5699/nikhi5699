@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning Kubernetes.
 
-- 💬 Ask me about **Jenkins, Docker, Ansible and Terraform**
+
+- 💬 Ask me about **Jenkins, Docker, Kubernetes Ansible and Terraform**
 
 - 📫 How to reach me **nikhilcherukupally2@gmail.com**
 

@@ -11,7 +11,7 @@
 
 
 
-- 💬 Ask me about **Jenkins, Docker, Kubernetes Ansible and Terraform**
+- 💬 Ask me about **Jenkins, Docker, Kubernetes, Ansible and Terraform**
 
 - 📫 How to reach me **nikhilcherukupally2@gmail.com**
 

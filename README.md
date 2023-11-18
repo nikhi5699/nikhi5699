@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Jenkins, Docker, Kubernetes, Ansible and Terraform**
 
-- 📫 How to reach me **nikhilcherukupally2@gmail.com**
+- 📫 Reach me at **nikhilcherukupally2@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
